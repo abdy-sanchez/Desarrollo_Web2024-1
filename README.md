@@ -21,3 +21,8 @@ Commit del los updates: [rama new_features]
 ~ git add .
 ~ git commit -m "Actualización archivos: HTML & CSS"
 ~ git push
+
+Eliminacion del archivo index.html [rama main]
+~ git rm index.html
+~ git commit -m "Eliminación del archivo index.html"
+~ git push
